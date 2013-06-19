@@ -1,4 +1,4 @@
 CSCI1901
 ========
 
-Files related to CSCI 1901 at UMN
+A repository for all the files I've created for CSCI 1901 at the University of Minnesota.  These are for public use for educational purposes only!
